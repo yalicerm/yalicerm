@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Alice Resendee
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Back-End`**
 
 Me chamo Alice Resende, tenho 21 anos, natuaral capixaba e atualmente estou cursando <b>Engenharia de Software</b> na UVV. Sou apaixonada por tecnologia desde de pequena e tenho objetivo de compartilhar meu conhecimento através desse portifólio. Tive experiência prévia como engenheira 3d na equipe <b>F1 in Schools</b> durante o Ensino Médio, onde desenvolvi paixão por robótica e levava os protópios para competições nacionais. 
 

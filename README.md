@@ -33,17 +33,6 @@ Atualmente sou membra da <b>Liga Feminina de TI</b> pela faculdade onde desenvol
 
 ### 🤖 Linguagens e Tecnologias
 
-Prontinho! Fiz a limpa no seu código, removendo as tecnologias focadas em front-end/PHP que você pediu, e mantive aquelas que você já domina (como HTML, CSS, JavaScript, React, Python e Git).
-
-Além disso, adicionei os ícones do Java, C# e MySQL.
-
-Como API REST é um estilo de arquitetura e não possui um ícone oficial na biblioteca visual que estamos usando (a Devicon), aproveitei para colocar o ícone do framework Spring. Ele representa perfeitamente o seu ecossistema de desenvolvimento e a construção dessas APIs em Java.
-
-Basta copiar o bloco abaixo e substituir toda a sua seção ### 🤖 Linguagens e Tecnologias antiga:
-
-HTML
-### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
